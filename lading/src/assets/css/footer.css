@@ -1,0 +1,23 @@
+footer{
+    width:100%;
+    height:100%;
+}
+
+.box_links{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height:50px;
+    background-color: rgb(26, 23, 23);
+    
+}
+
+.box_links a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.box_links a li {
+    padding: 10px;
+    border: 1px solid #fff;
+}
